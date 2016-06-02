@@ -10,7 +10,7 @@ https://gist.github.com/alysonla/37194be32e7c90cff0ff
  - Clone this project
  - Install [Flask](https://github.com/pallets/flask)
  - Run **server.py**
- - Go to the given @ip:port on your browser
+ - Go to the given **@ip:port** on your browser
 
 ###ToDo list
  - make changes from html to flask/python format.
